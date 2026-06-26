@@ -8,6 +8,7 @@ Spec-driven, test-driven workflow for this exam repo.
 4. Write integration tests in `tests/integration/` for critical cross-boundary flows.
 5. Implement in `<package>/` until **all unit and integration tests pass**. Export public API from `__init__.py`. Respect won't-do boundaries.
 6. Run `./scripts/check.sh` before finishing.
+7. Revise `README.md` to reflect changes including documentation on structure, function, how to launch, and test.
 
 Conventions:
 
